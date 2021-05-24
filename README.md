@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @singhtushar
 - 👀 I’m interested in Software Development, Competitive Programming, Problem Solving
+- 📒 I have sound knowledge of Data Structures and Algorithms
 - 🌱 I’m currently learning Backend and Frontend Technologies like Node.js, Express, HTML, CSS, JavaScript, Jquery
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/tushar-singh-156735192/
