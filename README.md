@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nodejs, Express, Rest-API, React, NPM, MongoDb, HTML, CSS, Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://singhtushar.herokuapp.com/](https://singhtushar.herokuapp.com/)
+- 👨‍💻 Visit my Portfolio Website: [https://singhtushar.herokuapp.com/](https://singhtushar.herokuapp.com/)
 
 - 📫 How to reach me **singhtusharts22@gmail.com**
 
@@ -14,9 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tushar-singh-156735192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tushar-singh-156735192/" height="30" width="40" /></a>
-<a href="https://instagram.com/the_tusharsingh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_tusharsingh_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/singhtusharts22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="singhtusharts22" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/insane_nerd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="insane_nerd" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/insane_nerd" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" alt="insane_nerd" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/elite__coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elite__coder" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@tushar1021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@tushar1021" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/elitecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="elitecoder" height="30" width="40" /></a>
